@@ -4,6 +4,7 @@ int main()
 int a,b;
 printf("Please Enter two numbers\n");
 scanf("%d %d",&a,&b);
+printf("Multiplication of two number is = %d \n",a*b);
 printf("Sum of two number is = %d \n",a+b);
 return 0;
 }
